@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name:yuyu Build OpenWrt
+name: yuyu Build OpenWrt
 
 on:
   release:
